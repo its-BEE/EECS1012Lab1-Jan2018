@@ -1,0 +1,115 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title> EECS1012 - LAB1 </title>
+</head>
+
+<body>
+
+<h1> About Deborah Babington </h1>
+<p> I am Nigerian, I enjoy dancing and I am an Aviation geek.</p>
+<hr>
+<h2> My IP address: 192.168.2.90 </h2>
+<hr>
+<h2> Courses I am taking this semester.</h2>
+<ul>
+<li> EECS 1012: Intro to net-centric computing </li>
+<li> ECON 1000: Intro to microeconomics   </li>
+<li> MATH 1014: Applied Calculus II    </li>
+</ul>
+<hr>
+<h2> My weekly Timetable   </h2>
+<table  style= "width : 45%">
+<tr>
+<th> Time </th>
+<th> Monday </th>
+<th> Tuesday </th>
+<th> Wednesday </th>
+<th> Thursday </th>
+<th> Friday </th>
+</tr>
+<tr>
+<td> 9:30am </td>
+<td> MATH1014 </td>
+<td>          </td>
+<td> MATH1014 </td>
+<td>          </td>
+<td> MATH1014 </td>
+</tr>
+<tr>
+<td> 10:30am  </td>
+<td> EECS1012 </td>
+<td>          </td>
+<td> EECS1012 </td>
+<td>          </td>
+<td>          </td>
+</tr>
+<tr>
+<td> 11:30am  </td>
+<td> EECS1012 </td>
+<td>          </td>
+<td> EECS1012 </td>
+<td>          </td>
+<td>          </td>
+</tr>
+<tr>
+<td> 12:30pm  </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+</tr>
+<tr>
+<td> 13:30pm  </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td> EECS1012 </td>
+<td>          </td>
+</tr>
+<tr>
+<td> 14:30pm  </td>
+<td> ECON1000 </td>
+<td>          </td>
+<td>          </td>
+<td> EECS1012 </td>
+<td>          </td>
+</tr>
+<tr>
+<td> 15:30pm  </td>
+<td> ECON1000 </td>
+<td>          </td>
+<td>          </td>
+<td> EECS1012 </td>
+<td>          </td>
+</tr>
+<tr>
+<td> 16:30pm  </td>
+<td> ECON1000 </td>
+<td>          </td>
+<td>          </td>
+<td> EECS1012 </td>
+<td>          </td>
+</tr>
+<tr>
+<td> 17:30pm  </td>
+<td> ECON1000 </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+<td>          </td>
+</tr>
+</table>
+<hr>
+<h2> My Two Favourite Foods with links </h2>
+<a href="https://en.wikipedia.org/wiki/Barbecue_chicken#/media/File:Chicken_BBQ.jpg">
+  <img src="Chicken_BBQ.jpg" alt="bbq chicken" style="width:250px;height:250px;">
+</a>
+<a href="https://en.wikipedia.org/wiki/Cheesecake#/media/File:Baked_cheesecake_with_raspberries_and_blueberries.jpg">
+  <img src="Baked_cheesecake_with_raspberries_and_blueberries.jpg" alt="cake" style="width:250px;height:250px;">
+</a>
+
+</body>
+</html>
